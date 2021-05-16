@@ -17,7 +17,7 @@ class Constant {
     var celcius = true
     
     var userName = ""
-    let API_KEY = "afbeb18dc409da18adaff4abaf9db2e3"
+    let API_KEY = "USE YOUR KEY"
     let baseUrl = "http://api.openweathermap.org/data/2.5/weather?q="
     let app_ID = "&APPID="
     
